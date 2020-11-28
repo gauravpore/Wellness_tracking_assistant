@@ -5,4 +5,4 @@ Feature of health assistant bot include:
 -Formal Interaction with user
 -Analyzing user’s problem and identifying solution for it
 -Guiding user through healthy habits such as diet, stress level, sleeping hours, exercise for better health
--Finally, storing entities from user’s responses in sheets, to enable user wellness tracking
+-Finally, storing entities from user’s responses in sheets, to enable user wellness tracking 
