@@ -34,6 +34,14 @@ Step 4: Running `rasa x` command should open a browser tab to `http://localhost:
 ```
 
 ## Screenshots:
+![Snips](https://github.com/gauravpore/healthcare_rasa-bot/issues/1#issue-897002774)
+
+## References:
+- [Rasa documentaion](https://rasa.com/docs/rasa/)
+- [Chrome Extension](https://github.com/gauravpore/healthcare_rasa-bot/tree/master/Chrome%20extension)
+
+## Contribution:
+Contributions are always welcomed:
         
         
         
