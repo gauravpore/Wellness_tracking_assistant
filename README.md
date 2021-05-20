@@ -38,9 +38,6 @@ Step 4: Running `rasa x` command should open a browser tab to `http://localhost:
         in order to start the user-inetraction with trained bot in a conversational-driven environment.
 ```
 
-## Screenshots:
-![Snips](https://github.com/gauravpore/healthcare_rasa-bot/issues/1#issue-897002774)
-
 ## References:
 - [Rasa documentaion](https://rasa.com/docs/rasa/)
 - [Chrome Extension](https://github.com/gauravpore/healthcare_rasa-bot/tree/master/Chrome%20extension)
@@ -49,8 +46,16 @@ Step 4: Running `rasa x` command should open a browser tab to `http://localhost:
 Contributions are always welcomed.
 Make sure you read the [Contribution info](https://github.com/gauravpore/healthcare_rasa-bot/blob/master/contribution.md) before making pull request.
         
-        
-        
-        
+ ## Screenshots:
+ #### Command Line Interaction:
+![alt tag](https://user-images.githubusercontent.com/67472558/119008714-09849a80-b9b0-11eb-9448-b1ae2fac9496.JPG "Command Line Interaction")
+
+#### Chrome Extension:
+![alt tag](https://user-images.githubusercontent.com/67472558/119008708-08536d80-b9b0-11eb-8a67-0fe087c9d801.JPG "Chrome Extension")
+
+#### Rasa X:
+![alt tag](https://user-images.githubusercontent.com/67472558/119008719-0ab5c780-b9b0-11eb-8d75-4fc0ecd0c7e0.JPG "Rasa x")
+
+
         
         
