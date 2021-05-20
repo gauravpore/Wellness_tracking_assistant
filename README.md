@@ -16,7 +16,6 @@ This repo contains all the neccesary chatbot files, i.e RASA project files. The 
 
 ***NOTE***: 
 Some of the features may fail after Rasa 3.0 version update.
-
 Refer [version-migration-guide](https://rasa.com/docs/rasa/migration-guide/) for version migration.
 
 > Installation Guide:
@@ -41,7 +40,8 @@ Step 4: Running `rasa x` command should open a browser tab to `http://localhost:
 - [Chrome Extension](https://github.com/gauravpore/healthcare_rasa-bot/tree/master/Chrome%20extension)
 
 ## Contribution:
-Contributions are always welcomed:
+Contributions are always welcomed.
+Make sure you read the [Contribution info](https://github.com/gauravpore/healthcare_rasa-bot/blob/master/contribution.md) before making pull request.
         
         
         
