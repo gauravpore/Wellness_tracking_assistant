@@ -1,2 +1,2 @@
-# Healthcare Assisatant
+# Healthcare Assistant
 Overview and Specification:
