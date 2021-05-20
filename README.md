@@ -56,6 +56,8 @@ Make sure you read the [Contribution info](https://github.com/gauravpore/healthc
 #### Rasa X:
 ![alt tag](https://user-images.githubusercontent.com/67472558/119008719-0ab5c780-b9b0-11eb-8d75-4fc0ecd0c7e0.JPG "Rasa x")
 
+### Wellness report form:
+![alt tag](https://user-images.githubusercontent.com/67472558/119017327-84ea4a00-b9b8-11eb-8e33-07faabc91535.png "Form")
 
         
         
