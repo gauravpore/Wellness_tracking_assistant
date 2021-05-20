@@ -19,8 +19,14 @@ Some of the features may fail after Rasa 3.0 version update.
 Refer [version-migration-guide](https://rasa.com/docs/rasa/migration-guide/) for version migration.
 
 > Installation Guide:
-``pip install rasa``
-``pip install rasa-x``
+- To install Rasa:
+```
+pip install rasa
+```
+- To install Rasa x:
+```
+pip install rasa-x
+```
 
 ## Implementation:
 ```Python
