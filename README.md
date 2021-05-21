@@ -13,7 +13,7 @@ This repo contains all the neccesary chatbot files, i.e RASA project files. The 
 - Python 
 - Javascript
 - HTML
-- [GTmetrix Analyer Plugin](https://chrome.google.com/webstore/detail/gtmetrix-analyzer-plugin/abacfkkedifakkocbillijlcfhfblgci?hl=en-US)
+- [GTmetrix Analyzer Plugin](https://chrome.google.com/webstore/detail/gtmetrix-analyzer-plugin/abacfkkedifakkocbillijlcfhfblgci?hl=en-US)
 
 ***NOTE***: 
 Some of the features may fail after Rasa 3.0 version update.
