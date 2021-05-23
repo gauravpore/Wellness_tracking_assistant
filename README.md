@@ -54,6 +54,9 @@ Make sure you read the [Contribution info](https://github.com/gauravpore/healthc
 #### Chrome Extension:
 ![alt tag](https://user-images.githubusercontent.com/67472558/119008708-08536d80-b9b0-11eb-8a67-0fe087c9d801.JPG "Chrome Extension")
 
+#### Interaction with Bot:
+![alt tag](https://user-images.githubusercontent.com/67472558/119255658-9dd24580-bbda-11eb-86ed-6fe5a385e43e.png "Rasa x")
+
 #### Rasa X:
 ![alt tag](https://user-images.githubusercontent.com/67472558/119008719-0ab5c780-b9b0-11eb-8d75-4fc0ecd0c7e0.JPG "Rasa x")
 
